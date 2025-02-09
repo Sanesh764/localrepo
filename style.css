@@ -1,0 +1,50 @@
+
+.hero{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#div4{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#pika{
+    font-size: xx-large;
+    font-weight: 700;
+}
+#chari{
+    font-size: xx-large;
+    font-weight: 800;
+}
+#mewtwo{
+    font-size: xx-large;
+    font-weight: 800;
+}
